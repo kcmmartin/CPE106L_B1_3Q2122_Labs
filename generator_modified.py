@@ -1,4 +1,4 @@
-"""Program: generator1.py
+"""Program: generator_modified.py
 Authors: Atienza, Dariux J.
 	Cacanindin, Ma. Eunice C.
 Generates and displays sentences using a simple grammar
